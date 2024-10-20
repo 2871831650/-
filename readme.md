@@ -1,13 +1,15 @@
-# Infinite World
+# 无限世界
 
-Just an infinite procedurally generated world in WebGL with Three.js.
+只是在WebGL中用Three.js生成了一个无限的程序世界。
 
-No purpose, just having fun.
 
-![Infinite World Screenshot](public/social/share-1200x630.png?raw=true "Infinite World Screenshot")
+没有目的，只是玩玩而已。
+
+
 
 ## Instructions
 
+直接下载源码，然后按照以下步骤运行，超简单！！！
 ```
 npm install
 npm run dev
